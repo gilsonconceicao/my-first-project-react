@@ -3,9 +3,9 @@ Meu primeiro projeto com React! Bem simples focdi na lógica nas quais os botõe
 
 Conceitos utilizados: 
 
-  Component
-  Hirarquia De Componentes
-  Events
-  Templet Expression
-  Hooks (useState)
+  Component,
+  Hirarquia De Componentes,
+  Events,
+  Templet Expression,
+  Hooks (useState),
   Render List
